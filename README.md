@@ -46,7 +46,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any inquiries, please reach out to me at [your-email@example.com].
+For any inquiries, please reach out to me at [pavankumar48903@example.com].
 
 
 ### Notes:
