@@ -1,0 +1,10 @@
+<h2>Your Dashboard</h2>
+<form id="expense-form" action="/add-expense" method="POST">
+    <input type="number" name="amount" placeholder="Amount" required>
+    <input type="text" name="category" placeholder="Category" required>
+    <button type="submit">Add Expense</button>
+</form>
+<ul id="expenses">
+    <!-- Expenses will be rendered here -->
+</ul>
+<script src="script.js"></script>
